@@ -3,7 +3,8 @@ Croma India needs a monthly aggregated sales report at the product code level fo
 
 To derive these insights, various SQL techniques are applied.
 
-User-defined functions in SQL are designed to perform specific tasks and return a result. They allow for reusable logic, making queries more modular, efficient, and easier to maintain.
+**User-defined functions** in SQL are designed to perform specific tasks and return a result. They allow for reusable logic, making queries more modular, efficient, and easier to maintain.
+
 ![image_alt](https://github.com/Shriimant/SQL-Financial-Analytics/blob/main/User%20Defined%20Function.png)
 
 SQL joins are used to combine data from multiple tables based on a requirement of the project.
