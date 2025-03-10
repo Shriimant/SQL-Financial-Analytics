@@ -7,6 +7,11 @@ To derive these insights, various SQL techniques are applied.
 
 ![image_alt](https://github.com/Shriimant/SQL-Financial-Analytics/blob/main/User%20Defined%20Function.png)
 
-SQL joins are used to combine data from multiple tables based on a requirement of the project.
+**SQL joins** are used to combine data from multiple tables based on a requirement of the project.
 
-Another step includes, developing a stored procedure to assign a market badge based on sales volume—markets with over 5 million units sold earn a Gold badge, otherwise they receive Silver. Input: Market & Fiscal Year | Output: Market Badge.
+![image_alt]
+
+
+Another step includes, developing a **stored procedure** to assign a market badge based on sales volume—markets with over 5 million units sold earn a Gold badge, otherwise they receive Silver. Input: Market & Fiscal Year | Output: Market Badge.
+
+![image_alt]
