@@ -29,11 +29,16 @@ Another step includes, developing a **stored procedure** to assign a market badg
 
 3. Explored subqueries, Common Table Expressions (CTEs), views and temporary tables for efficient data handling.
 
-4. Gained hands-on experience with Entity Relationship Diagrams (ERD), database normalization, data integrity, primary/foreign keys and key operations like INSERT, UPDATE, and DELETE.
+4. Gained hands-on experience with Entity Relationship Diagrams (ERD), database normalization, data integrity, primary/foreign keys and major operations like INSERT, UPDATE, and DELETE.
 
 5. Learned Extract, Transform, Load (ETL) processes, data warehousing and the differences between OLAP and OLTP systems.
 
 6. Implemented Window function concepts like OVER(), ROW_NUMBER(), RANK(), and DENSE_RANK() for advanced data analysis.
 
-7. Worked on a real dataset with over 1 million records and applied SQL in industry-focused projects on finance domain.
 
+## Key Learning Outcomes
+
+1. Sales trends & forecasting.
+2. SQL-driven insights for better decision-making.
+3. Performance optimization using window functions, stored procedures and user-defined SQL functions.
+4. Gained hands-on experience working with a real dataset of over 1 million records.
