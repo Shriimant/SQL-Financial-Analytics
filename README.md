@@ -22,11 +22,11 @@ Another step includes, developing a **stored procedure** to assign a market badg
 
 2. Learned to analyze data across multiple tables using INNER, LEFT, RIGHT, FULL, and CROSS JOINS.
 
-3. Explored subqueries, Common Table Expressions (CTEs), views, and temporary tables for efficient data handling.
+3. Explored subqueries, Common Table Expressions (CTEs), views and temporary tables for efficient data handling.
 
 4. Gained hands-on experience with Entity Relationship Diagrams (ERD), database normalization, data integrity, primary/foreign keys and key operations like INSERT, UPDATE, and DELETE.
 
-5. Learned Extract, Transform, Load (ETL) processes, data warehousing, and the differences between OLAP and OLTP systems.
+5. Learned Extract, Transform, Load (ETL) processes, data warehousing and the differences between OLAP and OLTP systems.
 
 6. Implemented Window function concepts like OVER(), ROW_NUMBER(), RANK(), and DENSE_RANK() for advanced data analysis.
 
