@@ -1,4 +1,9 @@
+## AtliQ Harware Overview -
+
+AtliQ Hardware, a growing company in the hardware industry, struggled with spreadsheets and manual records. As data grew, they faced duplication, errors, and slow access. To fix this, they adopted a relational database system, making data management faster and more reliable. SQL became their go-to tool for organizing and analyzing data efficiently.
+
 # Problem Statement
+
 Croma India needs a monthly aggregated sales report at the product code level for FY 2021 to track individual product sales and enable further product analytics in Excel. The report should include key metrics such as Month, Product Name, Variant, Sold Quantity, Gross Price Per Item, and Gross Price Total to help analyze sales trends, optimize strategies, and improve decision-making.
 
 To derive these insights, various SQL techniques are applied.
@@ -16,7 +21,7 @@ Another step includes, developing a **stored procedure** to assign a market badg
 
 ![image_alt](https://github.com/Shriimant/SQL-Financial-Analytics/blob/main/Stored%20Procedures.png)
 
-**This project helped me gain essential skills, such as -**
+**While working on this project, it also helped me gain essential skills such as -**
 
 1. Mastered essential SQL queries like SELECT, WHERE, DISTINCT, LIKE and numeric filters such as BETWEEN, IN, ORDER BY, LIMIT, and OFFSET. Also explored aggregations (MIN, MAX, AVG, GROUP BY) & calculated columns using IF, CASE, YEAR, and CURYEAR.
 
