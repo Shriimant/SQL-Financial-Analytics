@@ -17,3 +17,24 @@ Another step includes, developing a **stored procedure** to assign a market badg
 ![image_alt](https://github.com/Shriimant/SQL-Financial-Analytics/blob/main/Stored%20Procedures.png)
 
 **This project helped me gain essential skills, such as -**
+
+✅ Data Retrieval (Single Table):
+Mastered essential SQL queries like SELECT, WHERE, DISTINCT, LIKE and numeric filters such as BETWEEN, IN, ORDER BY, LIMIT, and OFFSET. Also explored aggregations (MIN, MAX, AVG, GROUP BY) & calculated columns using IF, CASE, YEAR, and CURYEAR.
+
+✅ Data Retrieval (Multiple Tables):
+Learned to analyze data across multiple tables using INNER, LEFT, RIGHT, FULL, and CROSS JOINS.
+
+✅ Complex Queries:
+Explored subqueries, Common Table Expressions (CTEs), views, and temporary tables for efficient data handling.
+
+✅ Database Creation & Management:
+Gained hands-on experience with Entity Relationship Diagrams (ERD), database normalization, data integrity, primary/foreign keys and key operations like INSERT, UPDATE, and DELETE.
+
+✅ ETL & Data Warehousing:
+Learned Extract, Transform, Load (ETL) processes, data warehousing, and the differences between OLAP and OLTP systems.
+
+✅ Advanced SQL Techniques:
+Built user-defined functions and stored procedures for query optimization. Also mastered window functions like OVER(), ROW_NUMBER(), RANK(), and DENSE_RANK() for advanced data analysis.
+
+✅ Real-World Experience:
+Worked on a real dataset with over 1 million records and applied SQL in industry-focused projects on finance domain.
