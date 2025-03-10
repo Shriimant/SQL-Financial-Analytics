@@ -21,9 +21,9 @@ Another step includes, developing a **stored procedure** to assign a market badg
 
 ![image_alt](https://github.com/Shriimant/SQL-Financial-Analytics/blob/main/Stored%20Procedures.png)
 
-**While working on this project, it also helped me gain essential skills such as -**
+**Working on this project also enabled me to develop key skills such as -**
 
-1. Mastered essential SQL queries like SELECT, WHERE, DISTINCT, LIKE and numeric filters such as BETWEEN, IN, ORDER BY, LIMIT, and OFFSET. Also explored aggregations (MIN, MAX, AVG, GROUP BY) & calculated columns using IF, CASE, YEAR, and CURYEAR.
+1. Essential SQL queries like SELECT, WHERE, DISTINCT, LIKE and numeric filters such as BETWEEN, IN, ORDER BY, LIMIT, and OFFSET. Also explored aggregations (MIN, MAX, AVG, GROUP BY) & calculated columns using IF, CASE, YEAR, and CURYEAR.
 
 2. Learned to analyze data across multiple tables using INNER, LEFT, RIGHT, FULL, and CROSS JOINS.
 
@@ -36,3 +36,4 @@ Another step includes, developing a **stored procedure** to assign a market badg
 6. Implemented Window function concepts like OVER(), ROW_NUMBER(), RANK(), and DENSE_RANK() for advanced data analysis.
 
 7. Worked on a real dataset with over 1 million records and applied SQL in industry-focused projects on finance domain.
+
